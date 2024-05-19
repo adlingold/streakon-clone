@@ -1,0 +1,6 @@
+alpaca-py
+bokeh
+Flask
+Flask-Cors
+ipython
+urllib3
